@@ -1,0 +1,36 @@
+ 98  source /etc/profile
+   99  java -version
+  100  mvn --version
+  101  mvn -version
+  102  ls
+  103  cd apache-tomcat-9.0.72/
+  104  ls
+  105  cd bin
+  106  ls
+  107  sh startup.sh
+  108  mvn -version
+  109  mvn --version
+  110  source
+  111  cd
+  112  curl ifconfig.me
+  113  cd
+  114  ls
+  115  cd apache-tomcat-9.0.72/
+  116  ls
+  117  cd bin
+  118  ls
+  119  sh startup.sh
+  120  sudo su tomcat
+  121  cd ..
+  122  ll
+  123  cd conf/
+  124  ll
+  125  vi tomcat-users.xml
+  126  cd ..
+  127  cd bin/
+  128  bash shutdown.sh
+  129  bash startup.sh
+  130  bash shutdown.sh
+  131  bash startup.sh
+  132  history
+[root@tomcat bin]#
